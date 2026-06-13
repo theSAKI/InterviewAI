@@ -1,0 +1,6 @@
+{
+  "name": "InterviewAI",
+  "description": "An Advanced Mock Interview & Career Placement Platform. Practice customized domain and behavioral mock interviews, track performance milestones, and receive detailed educational assessments with structured roadmap guidance.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
